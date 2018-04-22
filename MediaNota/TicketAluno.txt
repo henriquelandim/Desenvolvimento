@@ -1,0 +1,6 @@
+Aluno: Henrique Landim
+Disciplina: Química 2° ano
+nota 1° bimestre: 8
+nota 2° bimestre: 3
+nota 3° bimestre: 7
+Nota mínima 4° bimestre = 5,67

@@ -1,0 +1,10 @@
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\bin\Debug\netcoreapp2.0\MediaNota.deps.json
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\bin\Debug\netcoreapp2.0\MediaNota.runtimeconfig.json
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\bin\Debug\netcoreapp2.0\MediaNota.runtimeconfig.dev.json
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\bin\Debug\netcoreapp2.0\MediaNota.dll
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\bin\Debug\netcoreapp2.0\MediaNota.pdb
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\obj\Debug\netcoreapp2.0\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\obj\Debug\netcoreapp2.0\MediaNota.AssemblyInfoInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\obj\Debug\netcoreapp2.0\MediaNota.AssemblyInfo.cs
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\obj\Debug\netcoreapp2.0\MediaNota.dll
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\MediaNota\obj\Debug\netcoreapp2.0\MediaNota.pdb
