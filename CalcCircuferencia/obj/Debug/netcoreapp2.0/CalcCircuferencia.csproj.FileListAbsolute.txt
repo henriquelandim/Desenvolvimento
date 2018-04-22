@@ -1,0 +1,10 @@
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\bin\Debug\netcoreapp2.0\CalcCircuferencia.deps.json
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\bin\Debug\netcoreapp2.0\CalcCircuferencia.runtimeconfig.json
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\bin\Debug\netcoreapp2.0\CalcCircuferencia.runtimeconfig.dev.json
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\bin\Debug\netcoreapp2.0\CalcCircuferencia.dll
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\bin\Debug\netcoreapp2.0\CalcCircuferencia.pdb
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\obj\Debug\netcoreapp2.0\CalcCircuferencia.csproj.CoreCompileInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\obj\Debug\netcoreapp2.0\CalcCircuferencia.AssemblyInfoInputs.cache
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\obj\Debug\netcoreapp2.0\CalcCircuferencia.AssemblyInfo.cs
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\obj\Debug\netcoreapp2.0\CalcCircuferencia.dll
+C:\Users\Landim\logica\Desenvolvimento\Exercicios\CalcCircuferencia\obj\Debug\netcoreapp2.0\CalcCircuferencia.pdb
