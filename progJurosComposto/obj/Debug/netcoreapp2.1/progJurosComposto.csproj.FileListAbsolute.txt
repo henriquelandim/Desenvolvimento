@@ -1,0 +1,11 @@
+/home/landim/c-sharp/progJurosComposto/bin/Debug/netcoreapp2.1/progJurosComposto.deps.json
+/home/landim/c-sharp/progJurosComposto/bin/Debug/netcoreapp2.1/progJurosComposto.runtimeconfig.json
+/home/landim/c-sharp/progJurosComposto/bin/Debug/netcoreapp2.1/progJurosComposto.runtimeconfig.dev.json
+/home/landim/c-sharp/progJurosComposto/bin/Debug/netcoreapp2.1/progJurosComposto.dll
+/home/landim/c-sharp/progJurosComposto/bin/Debug/netcoreapp2.1/progJurosComposto.pdb
+/home/landim/c-sharp/progJurosComposto/obj/Debug/netcoreapp2.1/progJurosComposto.csprojAssemblyReference.cache
+/home/landim/c-sharp/progJurosComposto/obj/Debug/netcoreapp2.1/progJurosComposto.csproj.CoreCompileInputs.cache
+/home/landim/c-sharp/progJurosComposto/obj/Debug/netcoreapp2.1/progJurosComposto.AssemblyInfoInputs.cache
+/home/landim/c-sharp/progJurosComposto/obj/Debug/netcoreapp2.1/progJurosComposto.AssemblyInfo.cs
+/home/landim/c-sharp/progJurosComposto/obj/Debug/netcoreapp2.1/progJurosComposto.dll
+/home/landim/c-sharp/progJurosComposto/obj/Debug/netcoreapp2.1/progJurosComposto.pdb
