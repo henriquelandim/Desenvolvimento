@@ -26,13 +26,8 @@ namespace progJurosComposto
             Console.WriteLine("##   se sim digite 1, se não digite 2");
             increme = int.Parse(Console.ReadLine());
 
-            /*for (int j = 1; j > 2; j++)
-            {
-                Console.WriteLine("##   " + nomeCliente + ", deseja incrementar sobre esse investimento com uma quantia fixa mensalmente?");
-                Console.WriteLine("##   se sim digite 1, se não digite 2");
-                increme = int.Parse(Console.ReadLine());*/
+           
             valorReceber=0;
-            int cu=5;
             if (increme == 1)
             {
                 Console.WriteLine("##   Qual será o valor incrementado mensalmente?");
