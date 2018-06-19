@@ -40,7 +40,9 @@ namespace progJurosComposto
             }
             else if (increme == 2)
             {
-                5*5;
+                //aqui entra, o calculo
+                // valorReceber = valorInvestimento+(1.valorPercentualRentavel)^peloNumeroDeAnos
+                (valoInv+(1.rentabiMedia)^anoInv //agora como elevo a potencia?
                 Console.WriteLine("##   " + nomeCliente + ", o resultado do seu investimento sera de: " + valorReceber);
             }
             else
